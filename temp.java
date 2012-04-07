@@ -1,0 +1,1 @@
+class temp{ public static void main(String cm[]){System.out.println("HI :)");}}

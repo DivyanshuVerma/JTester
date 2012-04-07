@@ -1,0 +1,10 @@
+This application allows you to write and edit your java code directly on the GUI interface
+When you are done, you can compile it just by the press of a button.
+The errors after compilation or the output is displayed there itself.
+
+==TO RUN==
+Open CMD
+Go to the directory.
+Type 'java JTester'
+
+Written By Divyanshu Verma
